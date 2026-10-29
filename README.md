@@ -86,19 +86,19 @@ The system prompt took inspiration from various open-source system prompts. The 
 
 ### 1. OpenAI Codex CLI
 
-- JSON, containing more recent model prompts: https://github.com/openai/codex/blob/main/codex-rs/models-manager/models.json
-- gpt-5.2-codex: https://github.com/openai/codex/blob/main/codex-rs/core/gpt-5.2-codex_prompt.md
-- gpt_5_codex: https://github.com/openai/codex/blob/main/codex-rs/core/gpt_5_codex_prompt.md
+- JSON, containing more recent model prompts: https://github.com/openai/codex/blob/058e99a3aa5f325c3d2b2b3ad1872bfca5a86be8/codex-rs/models-manager/models.json
+- gpt-5.2-codex: https://github.com/openai/codex/blob/058e99a3aa5f325c3d2b2b3ad1872bfca5a86be8/codex-rs/core/gpt-5.2-codex_prompt.md
+- gpt_5_codex: https://github.com/openai/codex/blob/058e99a3aa5f325c3d2b2b3ad1872bfca5a86be8/codex-rs/core/gpt_5_codex_prompt.md
 
 ### 2. Kimi Code
 
-- Default agent system prompt page: https://github.com/MoonshotAI/kimi-code/blob/main/packages/agent-core-v2/src/app/agentProfileCatalog/system.md
+- Default agent system prompt page: https://github.com/MoonshotAI/kimi-code/blob/7d72ae396586ad82f48ca4335956235d3c38f0d8/packages/agent-core-v2/src/app/agentProfileCatalog/system.md
 
 ### 3. Grok Official xAI harness
 
-- Default prompt: https://github.com/xai-org/grok-build/blob/main/crates/codegen/xai-grok-agent/templates/prompt.md
+- Default prompt: https://github.com/xai-org/grok-build/blob/2bdd1d6a6369de0e8c68132ea4539e9abd9e14a8/crates/codegen/xai-grok-agent/templates/prompt.md
 
 ### 4. OpenCode
 
-- Anthropic prompt: https://github.com/anomalyco/opencode/blob/dev/packages/opencode/src/session/prompt/anthropic.txt
-- OpenAI prompt: https://github.com/anomalyco/opencode/blob/dev/packages/opencode/src/session/prompt/beast.txt
+- Anthropic prompt: https://github.com/anomalyco/opencode/blob/fc7e4cf93e660ad5ddabb0c48ecc99e934ebfe95/packages/opencode/src/session/prompt/anthropic.txt
+- OpenAI prompt: https://github.com/anomalyco/opencode/blob/fc7e4cf93e660ad5ddabb0c48ecc99e934ebfe95/packages/opencode/src/session/prompt/beast.txt
